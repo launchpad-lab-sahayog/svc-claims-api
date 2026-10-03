@@ -1,0 +1,4 @@
+*                     @launchpad-lab-sahayog/service-team
+/.github/             @launchpad-lab-sahayog/platform-team
+/infra/               @launchpad-lab-sahayog/platform-team
+/.github/CODEOWNERS   @launchpad-lab-sahayog/platform-team

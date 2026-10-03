@@ -1,0 +1,1 @@
+# launchpad-service-template
